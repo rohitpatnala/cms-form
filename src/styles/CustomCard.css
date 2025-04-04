@@ -1,0 +1,13 @@
+/* src/components/CustomCard.css */
+
+.custom-card {
+    background-color: #f9f9f9;
+    border: 1px dotted #d8d8d8;
+    border-radius: 4px;
+    padding: 2rem;
+    margin: 2rem auto;
+    text-align: center;
+    max-width: 600px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
+    font-size: 1.2rem;
+}
